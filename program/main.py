@@ -5,7 +5,9 @@ def flash(x, y, light):
     display.set_pixel(x, y, light)
 
 # === ここから書いてOK ===
+x = random.randint(0, 4)
+y = 0
 while True:
-  x = random.randint(0, 4)
-  flash(x, 0, 9)
+  flash(x, y, 9)
   microbit.sleep(500)
+  if y < 4: y += 1
