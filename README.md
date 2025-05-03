@@ -3,6 +3,8 @@
 - micro:bitでブロック崩しゲームについての資料です
 - resoucesフォルダにテキストを置いています
 - programフォルダにテンプレートと見本プログラムを置いています。
+## 懸念事項
+- 実行の度にダウンロードが必要で、時間が掛かってしまう
 ## 参考文献一覧
 https://microbit-micropython.readthedocs.io/en/v2-docs/<br>
 https://microbit-micropython.readthedocs.io/ja/latest/<br>
