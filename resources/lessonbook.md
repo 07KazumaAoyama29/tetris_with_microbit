@@ -48,14 +48,14 @@ BBC micro:bitは、プログラミング可能な小さなコンピューター�
 - 外部入出力ピン（金色のパッド部分）<br>
 ### 簡単なLED点灯デモ(5min)
 #### 指定した場所のLEDを点灯<br>
-```python:python
+```python: python
 flash(x, y, 明るさ)
 ```
-```python:demo1.py
+```python: demo1.py
 # (2, 2) の位置に明るさ9で点灯
 flash(2, 2, 9)
 ```
-```bash:TERMINAL
+```bash: TERMINAL
 uflash demo.py
 ```
 #### x座標とy座標について<br>
