@@ -10,12 +10,12 @@ micro:bitを使ってブロック崩しゲームを作る
 ## micro:bitとは
 BBC micro:bitは、プログラミング可能な小さなコンピューターだ。<br>
 学習や教育が楽しく簡単に出来るようにデザインされているよ[[1]](https://groklearning.com/)。<br>
-![err](./image/microbit.jpg)
+<img src="./image/microbit.jpg" width="50%" height=50%>
 ## pythonとは
 ## コーディング
 ### プログラム全体図
 初期位置にブロックを配置<br>
-![err](./gif/step1.gif)
+<img src="./gif/step1.gif" width="33%" height="33%">
         ↓<br>
 一定時間経過でブロックが落下<br>
         ↓<br>
