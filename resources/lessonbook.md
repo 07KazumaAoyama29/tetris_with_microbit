@@ -1,21 +1,39 @@
 # micro:bitでブロック崩しゲーム
 ## 目的
+micro:bitを使ってブロック崩しゲームを作る
 ## 内容目標
+- micro:bitでブロック崩しゲームを作る
+- micro:bitとはどういうものか、何ができるのかを理解する
+- pythonにおける、リスト(配列)の概念を理解する
+- 関数についてマスターする
 ## 目次
 ## micro:bitとは
+BBC micro:bitは、プログラミング可能な小さなコンピューターだ。学習や教育が楽しく簡単に出来るようにデザインされているよ。[1](https://groklearning.com/)
 ## pythonとは
 ## コーディング
 ### micro:bitの紹介(10min)
-- LED表示
-- ボタン操作
-- など
+- LED表示<br>
+5×5のLEDディスプレイ（発光ダイオード）<br>
+- ボタン操作<br>
+2つのボタン（左Aボタン、右Bボタン）<br>
+- 様々なセンサ<br>
+加速度計<br>
+磁力計（コンパス）<br>
+温度センサー<br>
+Bluetooth<br>
+ラジオ通信（他のmicro:bitと通信する）<br>
+外部入出力ピン（金色のパッド部分）<br>
 ### 簡単なLED点灯デモ(5min)
 - 指定した場所のLEDを点灯<br>
 ```python
-from microbit import *
-
+flash(x, y, 明るさ)
+```
+```python
 # (2, 2) の位置に明るさ9で点灯
-display.set_pixel(2, 2, 9)
+flash(2, 2, 9)
+```
+```bash
+uflash demo2.py
 ```
 - x座標とy座標について
 - 関数について
@@ -36,8 +54,10 @@ demo.pyのプログラムを、(0, 4)の位置に明るさ6で点灯させるプ
 
 ## まとめ
 ## 参考文献
-https://microbit-micropython.readthedocs.io/en/v2-docs/<br>
-https://microbit-micropython.readthedocs.io/ja/latest/<br>
+[1] https://groklearning.com/<br>
+[2] https://microbit.org/ja/<br>
+[3] https://microbit-micropython.readthedocs.io/en/v2-docs/<br>
+[4] https://microbit-micropython.readthedocs.io/ja/latest/<br>
 
 
 This material benefited from the assistance of ChatGPT.
