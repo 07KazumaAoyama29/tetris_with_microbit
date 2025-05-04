@@ -169,21 +169,31 @@ for i in range(10):
 ```
 **while(条件ループ)**
 ```python:demo.py
+while 条件式:
+```
+ブロック崩しゲームの場合、どちらのループを使う方が良いでしょうか？
+<details><summary>答え</summary>
+
+一般的には、ゲームが終了するまで何回ループをするかは分からない(時と場合による)ので、本レッスンでは while を使います。<br>
+ゲームの終了条件を今の進捗で入れるのは難しいので、とりあえず無限ループにしましょう。<br>
+**while(無限)**
+```python:demo.py
+x = 2
+y = 0
 while True:
+  flash(x, y, 9)
 ```
 </details>
-```python:ヒント
-import random
-#5 ~ 10 の乱数を生成
-random.randint(5, 10)
-```
 
+これで繰り返し処理の実装も完了しました。<br>
 - 実行して確認
 ```bash:TERMINAL
 uflash main.py
 ```
 micro:bitをパソコンに繋げて、上記のコマンドを実行してみてください。<br>
-プログラムが合っていれば、実行する度に光る位置が変わるはずです。<br>
+↓のように初期位置が光っていたら成功です！<br>
+<img src="./image/prac2.png" width="20%" height="20%">
+
 
 #### ブロックが落下するようにする
 - 繰り返し処理<br>
