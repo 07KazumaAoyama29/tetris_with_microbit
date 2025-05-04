@@ -37,10 +37,12 @@ BBC micro:bitは、プログラミング可能な小さなコンピューター�
 ### micro:bitの紹介(10min)
 #### LED表示<br>
 - 5×5のLEDディスプレイ（発光ダイオード）<br>
-<img src="./gif/led.gif" width="20%" height="20%">
+<img src="./gif/led.gif" width="25%" height="25%">
 
 #### ボタン操作<br>
 - 2つのボタン（左Aボタン、右Bボタン）<br>
+<img src="./gif/button.gif" width="25%" height="25%">
+
 #### 様々なセンサ<br>
 - 加速度計<br>
 - 磁力計（コンパス）<br>
