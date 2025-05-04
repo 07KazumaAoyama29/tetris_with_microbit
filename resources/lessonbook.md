@@ -13,6 +13,9 @@ BBC micro:bitは、プログラミング可能な小さなコンピューター�
 <img src="./image/microbit.jpg" width="50%" height=50%>
 
 ## pythonとは
+Pythonは、迅速に開発を進め、システムを効果的に統合できるプログラミング言語です。[[2]](https://www.python.org/)<br>
+<img src="./image/python.png" width="50%" height=50%>
+
 ## コーディング
 ### プログラム全体図
 - 初期位置にブロックを配置<br>
@@ -170,9 +173,10 @@ whileループの中で、LEDを表示した後に、yの数値を +1 してく�
 ## まとめ
 ## 参考文献
 [1] https://groklearning.com/<br>
-[2] https://microbit.org/ja/<br>
-[3] https://microbit-micropython.readthedocs.io/en/v2-docs/<br>
-[4] https://microbit-micropython.readthedocs.io/ja/latest/<br>
+[2] https://www.python.org/<br>
+[3] https://microbit.org/ja/<br>
+[4] https://microbit-micropython.readthedocs.io/en/v2-docs/<br>
+[5] https://microbit-micropython.readthedocs.io/ja/latest/<br>
 
 
 This material benefited from the assistance of ChatGPT.
