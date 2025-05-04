@@ -171,6 +171,8 @@ for i in range(10):
 ```python:demo.py
 while 条件式:
 ```
+</details>
+
 ブロック崩しゲームの場合、どちらのループを使う方が良いでしょうか？
 <details><summary>答え</summary>
 
