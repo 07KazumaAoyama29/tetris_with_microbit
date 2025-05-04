@@ -41,7 +41,7 @@ Pythonは、迅速に開発を進め、システムを効果的に統合でき�
 - Ex. ブロックの種類を追加
 
 Exは順不同。<br>
-## micro:bitの紹介(10min)
+## micro:bitの紹介(3min)
 ### LED表示<br>
 - 5×5のLEDディスプレイ（発光ダイオード）<br>
 <img src="./gif/led.gif" width="25%" height="25%">
@@ -256,6 +256,7 @@ while True:
 <img src="./image/prac3.png" width="20%" height="20%">
 
 <details><summary>答え</summary>
+
 少し前に下記のようなクイズをしたのを覚えていますか？<br>
 ### Work. 以下のプログラムを実行した時、どのLEDが光るかを考えてみてください<br>
 ```python:python
