@@ -83,6 +83,13 @@ fixme 画像が欲しい<br>
 ↓の画像のように光ればOK!<br><br>
 <img src="./image/demo1.png" width="20%" height="20%">
 
+<details><summary>答え</summary>
+
+```python:demo.py
+flash(0, 4, 6)
+```
+</details>
+
 #### 以下のプログラムを実行した時、どのLEDが光るかを考えてみてください<br>
 ```python:python
 flash(2, 0, 9)
