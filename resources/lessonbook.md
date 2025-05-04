@@ -1,24 +1,25 @@
 # micro:bitでブロック崩しゲーム
-## 目的
+# 目的
 micro:bitを使ってブロック崩しゲームを作る<br>
 <mark>fixme</mark> 完成形を差し込む
-## 内容目標
+
+# 内容目標
 - micro:bitでブロック崩しゲームを作る
 - micro:bitとはどういうものか、何ができるのかを理解する
 - pythonにおける、リスト(配列)の概念を理解する
 - 関数についてマスターする
-## 目次
-## micro:bitとは
+# 目次
+# micro:bitとは
 BBC micro:bitは、プログラミング可能な小さなコンピューターだ。<br>
 学習や教育が楽しく簡単に出来るようにデザインされているよ[[1]](https://groklearning.com/)。<br>
 <img src="./image/microbit.jpg" width="50%" height=50%>
 
-## pythonとは
+# pythonとは
 Pythonは、迅速に開発を進め、システムを効果的に統合できるプログラミング言語です[[2]](https://www.python.org/)。<br>
 <img src="./image/python.png" width="50%" height=50%>
 
-## コーディング
-### プログラム全体図
+# コーディング
+## プログラム全体図
 - ①初期位置にブロックを配置<br>
 <img src="./gif/step1.gif" width="10%" height="10%">
 
@@ -40,16 +41,16 @@ Pythonは、迅速に開発を進め、システムを効果的に統合でき�
 - Ex. ブロックの種類を追加
 
 Exは順不同。<br>
-### micro:bitの紹介(10min)
-#### LED表示<br>
-- 5×5のLEDディスプレイ（発光ダイオード）<br>
+## micro:bitの紹介(10min)
+### LED表示<br>
+#### 5×5のLEDディスプレイ（発光ダイオード）<br>
 <img src="./gif/led.gif" width="25%" height="25%">
 
-#### ボタン操作<br>
-- 2つのボタン（左Aボタン、右Bボタン）<br>
+### ボタン操作<br>
+#### 2つのボタン（左Aボタン、右Bボタン）<br>
 <img src="./gif/button.gif" width="25%" height="25%">
 
-#### 様々なセンサ<br>
+### 様々なセンサ<br>
 - 加速度計<br>
 - 磁力計（コンパス）<br>
 - 温度センサー<br>
