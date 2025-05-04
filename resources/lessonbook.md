@@ -1,6 +1,6 @@
 # micro:bitでブロック崩しゲーム
 ## 目的
-micro:bitを使ってブロック崩しゲームを作る
+micro:bitを使ってブロック崩しゲームを作る<br>
 <mark>fixme</mark> 完成形を差し込む
 ## 内容目標
 - micro:bitでブロック崩しゲームを作る
