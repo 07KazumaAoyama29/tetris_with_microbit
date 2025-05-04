@@ -80,6 +80,7 @@ uflash demo.py
 fixme 画像が欲しい<br>
 #### (0, 4)の位置に明るさ6で点灯してみよう<br>
 <mark>demo.py</mark>のプログラムを、(0, 4)の位置に明るさ6で点灯させるプログラムに書き換えてください。<br>
+↓の画像のように光ればOK!<br><br>
 <img src="./image/demo1.png" width="20%" height="20%">
 
 #### 以下のプログラムを実行した時、どのLEDが光るかを考えてみてください<br>
