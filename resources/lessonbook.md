@@ -60,11 +60,11 @@ flash(2, 2, 9)
 ```bash: TERMINAL
 uflash demo.py
 ```
-<img src="./image/demo.png" width="30%" height="30%">
+<img src="./image/demo.png" width="20%" height="20%">
 #### x座標とy座標について<br>
 - x: よこの位置 0（左）〜4（右）<br>
 - y: たての位置 0（上）〜4（下）<br>
-<img src="./image/zahyo.png" width="30%" height="30%">
+<img src="./image/zahyo.png" width="20%" height="20%">
 #### 明るさについて<br>
 - 0(真っ暗)〜9(一番明るい)<br>
 #### 関数について<br>

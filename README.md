@@ -10,7 +10,7 @@ https://microbit-micropython.readthedocs.io/en/v2-docs/<br>
 https://microbit-micropython.readthedocs.io/ja/latest/<br>
 ## 更新履歴
 2025.05.03 first commit<br>
-2025.05.03 add demo program and try reduce typing but not success.<br>
+2025.05.04 exclude randomize<br>
 
 This material benefited from the assistance of ChatGPT.
 
