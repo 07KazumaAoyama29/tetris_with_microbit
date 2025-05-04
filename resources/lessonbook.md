@@ -64,10 +64,11 @@ flash(x, y, 明るさ)
 flash(2, 2, 9)
 ```
 #### micro:bitで実行
-以下のコマンドを TERMINAL で実行する<br>
+↓のコマンドを TERMINAL で実行する<br>
 ```bash: TERMINAL
 uflash demo.py
 ```
+↓のようにLEDが光れば成功！<br><br>
 <img src="./image/demo.png" width="20%" height="20%">
 
 #### x座標とy座標について<br>
@@ -82,7 +83,7 @@ uflash demo.py
 
 #### (0, 4)の位置に明るさ6で点灯してみよう<br>
  <u>demo.py</u> のプログラムを、(0, 4)の位置に明るさ6で点灯させるプログラムに書き換えてください。<br>
-↓の画像のように光ればOK!<br><br>
+↓の画像のように光れば成功!<br><br>
 <img src="./image/demo1.png" width="20%" height="20%">
 
 <details><summary>答え</summary>
