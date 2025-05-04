@@ -13,7 +13,7 @@ BBC micro:bitは、プログラミング可能な小さなコンピューター�
 <img src="./image/microbit.jpg" width="50%" height=50%>
 
 ## pythonとは
-Pythonは、迅速に開発を進め、システムを効果的に統合できるプログラミング言語です。[[2]](https://www.python.org/)<br>
+Pythonは、迅速に開発を進め、システムを効果的に統合できるプログラミング言語です[[2]](https://www.python.org/)。<br>
 <img src="./image/python.png" width="50%" height=50%>
 
 ## コーディング
@@ -80,6 +80,7 @@ uflash demo.py
 fixme 画像が欲しい<br>
 #### (0, 4)の位置に明るさ6で点灯してみよう<br>
 <mark>demo.py</mark>のプログラムを、(0, 4)の位置に明るさ6で点灯させるプログラムに書き換えてください。<br>
+<img src="./image/demo1.png" width="20%" height="20%">
 
 #### 以下のプログラムを実行した時、どのLEDが光るかを考えてみてください<br>
 ```python:python
