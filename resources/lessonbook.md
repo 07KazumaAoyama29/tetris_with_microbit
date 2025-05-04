@@ -102,6 +102,10 @@ flash(2, 2, 9)
 flash(2, 3, 9)
 flash(2, 4, 9)
 ```
+<details><summary>答え</summary>
+<img src="./image/prac1.png" width="20%" height="20%">
+</details>
+
 ### 落ちるブロックを作ろう(20min)
 ここでは、ブロックが一定時間ごとに落ちていくプログラムを作っていきます。<br>
 
