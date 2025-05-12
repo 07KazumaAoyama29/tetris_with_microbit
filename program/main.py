@@ -23,7 +23,6 @@ x = 2
 y = 0
 timer = 0
 while True:
-  music.play(music.POWER_UP)
   flashm(blocks)
   flash(x, y, 9)
   timer += 1
