@@ -16,7 +16,8 @@ micro:bitを使ってブロック崩しゲームを作る<br>
 - [micro:bitの紹介](#microbitの紹介)
   - [LED表示](##LED表示)
   - [ボタン操作](##ボタン操作)
-
+  - [様々なセンサ](##様々なセンサ)
+- [LEDを点灯させてみよう！](#LEDを点灯させてみよう！)
 # micro:bitとは
 BBC micro:bitは、プログラミング可能な小さなコンピューターだ。<br>
 学習や教育が楽しく簡単に出来るようにデザインされているよ[[1]](https://groklearning.com/)。<br>
@@ -59,14 +60,14 @@ Exは順不同。<br>
 - 2つのボタン（左Aボタン、右Bボタン）<br>
 <img src="./gif/button.gif" width="25%" height="25%">
 
-### 様々なセンサ<br>
+## 様々なセンサ<br>
 - 加速度計<br>
 - 磁力計（コンパス）<br>
 - 温度センサー<br>
 - Bluetooth<br>
 - ラジオ通信（他のmicro:bitと通信する）<br>
 - 外部入出力ピン（金色のパッド部分）<br>
-## 簡単なLED点灯デモ(5min)
+# LEDを点灯させてみよう！(5min)
 ### 指定した場所のLEDを点灯<br>
 ```python: python
 flash(x, y, 明るさ)
