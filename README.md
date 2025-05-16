@@ -17,7 +17,6 @@ microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 - Doing生徒に記述してもらう用のファイルと、完成見本ファイルを別々に作る
 - 最終チェックリスト／完成条件を明記
 - ファイル名や保存場所の指示を明記
-- コーディングの名前を、もっといいものにする
 - DoingExのプログラムを作成する(Optional but Recommend)
 - 関数についてのイラストを作成する？(Optional but Recommend)
 - 「この考え方は他のゲームにも応用できるよ！」のような発展的な一言を追記する(Optional but Recommend)
