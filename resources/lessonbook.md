@@ -6,10 +6,9 @@ micro:bitを使ってブロック崩しゲームを作る<br>
 # 内容目標
 - micro:bitでブロック崩しゲームを作る
 - micro:bitとはどういうものか、何ができるのかを理解する
-- pythonにおける、リスト(配列)の概念を理解する
-- 関数についてマスターする
+- pythonにおける、if文, while文, 変数, 関数を使いこなせるようになる
+- 関数について、他人に説明できるようになる
 # 目次
-
 - [micro:bitとは](#microbitとは)
 - [pythonとは](#pythonとは)
 - [プログラム全体図](#プログラム全体図)
@@ -754,7 +753,7 @@ forループは、このようにリストと一緒に使うことが多いで�
 [3] https://microbit.org/ja/<br>
 [4] https://microbit-micropython.readthedocs.io/en/v2-docs/<br>
 [5] https://microbit-micropython.readthedocs.io/ja/latest/<br>
-[6] Eric MAtthes. "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming". No Starch Press Inc.<br>
+[6] Eric Matthes. "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming". No Starch Press Inc.<br>
 
 
 **Acknowledgement**  

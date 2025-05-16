@@ -40,7 +40,7 @@ microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 [3] https://microbit.org/ja/<br>
 [4] https://microbit-micropython.readthedocs.io/en/v2-docs/<br>
 [5] https://microbit-micropython.readthedocs.io/ja/latest/<br>
-[6] Eric MAtthes. "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming". No Starch Press Inc.<br>
+[6] Eric Matthes. "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming". No Starch Press Inc.<br>
 
 ## 更新履歴
 2025.05.03 first commit<br>
