@@ -12,7 +12,6 @@ microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 ## Todoリスト
 - 保留: ①,②の待機→タイマーに置き換える
 - タイマー処理の仕組み図(flow chart)を作成し、貼り付ける(フローチャートの図を超綺麗に作る)
-- Doing目次を機能させる
 - プログラミングの醍醐味のところの文章を修正する
 - Doing資料を校閲・推敲する
 - Doing生徒に記述してもらう用のファイルと、完成見本ファイルを別々に作る
@@ -49,6 +48,7 @@ microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 2025.05.05 add plan section<br>
 2025.05.12 complete section3<br>
 2025.05.16 add todo and ex. mission<br>
+2025.05.16 completed it to some extent<br>
 
 **Acknowledgement**  
 This material was reviewed and refined with the assistance of ChatGPT (OpenAI).
