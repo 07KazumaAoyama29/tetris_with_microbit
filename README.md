@@ -11,9 +11,8 @@ microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 
 ## Todoリスト
 - 保留: ①,②の待機→タイマーに置き換える
-- タイマー処理の仕組み図を作成し、貼り付ける
-- Doing④の左右に動かすセクションを執筆する
-- ⑤の一列揃ったら消すのプログラムを作成する
+- タイマー処理の仕組み図(flow chart)を作成し、貼り付ける(フローチャートの図を超綺麗に作る)
+- Doing⑤の一列揃ったら消すのプログラムを作成する
 - ⑤の一列揃ったら消すのセクションを執筆する
 - まとめのセクションを執筆する
 - 目次を機能させる
@@ -25,6 +24,7 @@ microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 - Exのプログラムを作成する(Optional but Recommend)
 - 関数についてのイラストを作成する？(Optional but Recommend)
 - 「この考え方は他のゲームにも応用できるよ！」のような発展的な一言を追記する(Optional but Recommend)
+- コードの可読性を上げるメリットの文章を、丁寧に書く。
 
 ## 懸念事項
 - 実行の度にダウンロードが必要で、時間が掛かってしまう
@@ -35,7 +35,7 @@ microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 - ブロックが最初に配置される位置はランダムではなく真ん中？
 - この(Githubの)資料は生徒に共有すべきか？(レッスンブックのみ・mdファイルのみ・Githubs全体)
 - 各章末に、理解度確認用のクイズを用意すべきか？そんな時間ある？
-- 落下するプログラムは、現状はsleepで実装→sleepだと左右移動ができない→タイマー処理に変更という流れを取っているが、最初からタイマー処理にした方が良いか？
+- 落下するプログラムは、現状はsleepで実装→sleepだと左右移動ができない→タイマー処理に変更という流れを取っているが、最初からタイマー処理にした方が良いか？タイマー処理は直観で理解するのは難しい？
 
 ## 参考文献一覧
 [1] https://groklearning.com/<br>
@@ -49,8 +49,10 @@ microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 2025.05.04 exclude randomize<br>
 2025.05.05 add plan section<br>
 2025.05.12 complete section3<br>
+2025.05.16 add todo and ex. mission<br>
 
-This material benefited from the assistance of ChatGPT.
+**Acknowledgement**  
+This material was reviewed and refined with the assistance of ChatGPT (OpenAI).
 
 Kazuma Aoyama(bloodtune65@gmail.com)
 

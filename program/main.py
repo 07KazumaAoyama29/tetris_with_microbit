@@ -38,3 +38,11 @@ while True:
   if button_b.was_pressed() and x < 4:
         x += 1
         clear()
+  for i in range(4):
+     flag = 0
+     for j in range(4):
+        if blocks[i][j] == 0:
+           flag = 1
+     if flag == 0:
+        for j in range(4):
+           blocks[i][j] = 0
