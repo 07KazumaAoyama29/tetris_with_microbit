@@ -754,6 +754,7 @@ forループは、このようにリストと一緒に使うことが多いで�
 [4] https://microbit-micropython.readthedocs.io/en/v2-docs/<br>
 [5] https://microbit-micropython.readthedocs.io/ja/latest/<br>
 [6] Eric Matthes. "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming". No Starch Press Inc.<br>
+[7] https://makecode.microbit.org/<br>
 
 
 **Acknowledgement**  
