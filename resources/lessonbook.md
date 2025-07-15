@@ -1,7 +1,7 @@
 # micro:bitでブロック崩しゲーム
 # 目的
 micro:bitを使ってブロック崩しゲームを作る<br>
-<img src="./gif/cmp_1.gif" width="10%" height="10%">
+<img src="./gif/cmp_1.gif" width="50%" height="50%">
 <mark>fixme</mark> 2x2ブロックパターンの完成形を差し込む。
 
 # 内容目標
