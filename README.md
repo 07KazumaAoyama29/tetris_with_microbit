@@ -5,6 +5,7 @@
 - programフォルダにテンプレートと見本プログラムを置いています。
 
 ## ホワイトボードに何を書くか
+ミッションの各ステップ<br>
 pythonの文法の基本的な事柄。<br>
 変数・if文・while文・条件式について書いておく。<br>
 microbitを起動するコマンド(uflash main.py)も書いておく。<br>
@@ -18,7 +19,6 @@ microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 - 最終チェックリスト／完成条件を明記
 - ファイル名や保存場所の指示を明記
 - DoingExのプログラムを作成する(Optional but Recommend)
-- 関数についてのイラストを作成する？(Optional but Recommend)
 - 「この考え方は他のゲームにも応用できるよ！」のような発展的な一言を追記する(Optional but Recommend)
 - コードの可読性を上げるメリットの文章を、丁寧に書く。
 - if文の説明をもう少し上に移動させる

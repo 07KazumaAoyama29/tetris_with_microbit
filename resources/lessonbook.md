@@ -2,7 +2,7 @@
 # 目的
 micro:bitを使ってブロック崩しゲームを作る<br>
 <img src="./gif/cmp_1.gif" width="50%" height="50%">
-<mark>fixme</mark> 2x2ブロックパターンの完成形を差し込む。
+<img src="./gif/cmp_2.gif" width="50%" height="50%">
 
 # 内容目標
 - micro:bitでブロック崩しゲームを作る
@@ -116,8 +116,6 @@ uflash demo.py
 
 ## 明るさについて<br>
 - 0(真っ暗)〜9(一番明るい)<br>
-## 関数について<br>
-<mark>fixme</mark> 画像が欲しい<br>
 
 ## Work1 (0, 4)の位置に明るさ6で点灯してみよう<br>
 <ins>demo.py</ins>のプログラムを、(0, 4)の位置に明るさ6で点灯させるプログラムに書き換えてください。
