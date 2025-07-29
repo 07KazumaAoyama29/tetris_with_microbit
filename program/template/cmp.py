@@ -8,7 +8,7 @@ def clear():
 def flashm(list):
   for i in range(5):
     for j in range(5):
-      flash(i, j, list[j][i] * 9)
+      display.set_pixel(i, j, list[j][i] * 9)
 
 blocks = [
   [0, 0, 0, 0, 0],  # y=0
@@ -23,21 +23,24 @@ x = 2
 y = 0
 timer = 0
 while True:
-  flashm(blocks)
   flash(x, y, 9)
   timer += 1
   if timer % 100 == 0:
     clear()
+    flashm(blocks)
     y += 1
     if blocks[y][x] != 0:
        blocks[y-1][x] = 1
        y = 0   
+       flashm(blocks)
   if button_a.was_pressed() and x > 0:
         x -= 1
         clear()
+        flashm(blocks)
   if button_b.was_pressed() and x < 4:
         x += 1
         clear()
+        flashm(blocks)
   for i in range(5):
      flag = 0
      for j in range(5):
