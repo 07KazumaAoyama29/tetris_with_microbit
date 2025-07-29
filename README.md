@@ -7,14 +7,13 @@
 ## ホワイトボードに何を書くか
 ミッションの各ステップ<br>
 マイクロビットの絵<br>
+関数の説明(言葉とイラスト)<br>
 pythonの文法の基本的な事柄。<br>
 変数・if文・while文・条件式について書いておく。<br>
 microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 
 ## Todoリスト
-- 保留: ①,②の待機→タイマーに置き換える
 - タイマー処理の仕組み図(flow chart)を作成し、貼り付ける(フローチャートの図を超綺麗に作る)
-- プログラミングの醍醐味のところの文章を修正する
 - Doing資料を校閲・推敲する
 - Doing生徒に記述してもらう用のファイルと、完成見本ファイルを別々に作る
 - 最終チェックリスト／完成条件を明記
@@ -22,10 +21,8 @@ microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 - DoingExのプログラムを作成する(Optional but Recommend)
 - 「この考え方は他のゲームにも応用できるよ！」のような発展的な一言を追記する(Optional but Recommend)
 - コードの可読性を上げるメリットの文章を、丁寧に書く。
-- if文の説明をもう少し上に移動させる
 - while Trueの説明を増やす
 - and条件の説明を入れる
-- 教室PCでうまくいくかを確認する
 
 ## 懸念事項
 - 実行の度にダウンロードが必要で、時間が掛かってしまう
@@ -55,9 +52,10 @@ microbitを起動するコマンド(uflash main.py)も書いておく。<br>
 2025.05.12 complete section3<br>
 2025.05.16 add todo and ex. mission<br>
 2025.05.16 completed it to some extent<br>
+2025.07.29 update Todo list<br>
 
 **Acknowledgement**  
-This material was reviewed and refined with the assistance of ChatGPT (OpenAI).
+This material was reviewed and refined with the assistance of ChatGPT (OpenAI) and Gemini(Google).
 
 Kazuma Aoyama(bloodtune65@gmail.com)
 
