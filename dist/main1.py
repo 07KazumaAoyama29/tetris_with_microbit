@@ -19,7 +19,7 @@ blocks = [
   [1, 1, 1, 1, 1],  # 地面
 ]
 # === ここから書いてOK ===
-
+# === ここから書いてOK ===
 x = 2
 y = 0
 timer = 0
@@ -27,7 +27,7 @@ while True:
   flashm(blocks)
   flash(x, y, 9)
   timer += 1
-  if timer % 100 == 0:
+  if timer % 1000 == 0:
     clear()
     y += 1
     if blocks[y][x] != 0:
@@ -39,11 +39,3 @@ while True:
   if button_b.was_pressed() and x < 4:
         x += 1
         clear()
-  for i in range(5):
-     flag = 0
-     for j in range(5):
-        if blocks[i][j] == 0:
-           flag = 1
-     if flag == 0:
-        for j in range(5):
-           blocks[i][j] = 0

@@ -771,11 +771,6 @@ while True:
 具体的には、<br>
 待機処理→タイマー処理<br>
 に置き換えることで、常にボタンの判定をしてくれるようにしました。<br>
-<mark>fixme</mark> タイマー処理と待機処理のフローチャートを、比較形式で貼る。通常のフローチャートではなく、上部に変数の値も載せること。
-x:           x:         x:
-y:
-xに-を代入→yに-を代入→LED点灯
-みたいな感じ。
 
 </details>
 
@@ -837,11 +832,11 @@ forループは、このようにリストと一緒に使うことが多いで�
 [5] https://microbit-micropython.readthedocs.io/ja/latest/<br>
 [6] Eric Matthes. "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming". No Starch Press Inc.<br>
 [7] https://makecode.microbit.org/<br>
-[8] 新井 紀子(2025). シン読解力: 学力と人生を決めるもうひとつの読み方. 東洋経済新報社
-[9] 西林 克彦(2005). わかったつもり 読解力がつかない本当の原因. 光文社新書
+[8] 新井 紀子(2025). シン読解力: 学力と人生を決めるもうひとつの読み方. 東洋経済新報社<br>
+[9] 西林 克彦(2005). わかったつもり 読解力がつかない本当の原因. 光文社新書<br>
 
 
 **Acknowledgement**  
-This material was reviewed and refined with the assistance of ChatGPT (OpenAI).
+This material was reviewed and refined with the assistance of ChatGPT (OpenAI) and Gemini(Google).
 
 Kazuma Aoyama(bloodtune65@gmail.com)
